@@ -40,7 +40,7 @@ const eqObjects = function(object1, object2) {
   } else {
     return false;
   }
-  return true
+  return true;
 };
 
 const ab = { a: "1", b: "2" };
